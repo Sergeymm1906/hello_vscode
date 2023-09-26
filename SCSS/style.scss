@@ -3,27 +3,28 @@
 
 
 body {
-	font-size: 20px;
+   font-size: 20px;
 
-	dive {
-		font-size: 10px;
-	}
+   dive {
+      font-size: 10px;
+   }
 
-	h1 {
-		color: rgb(243, 17, 9);
-	}
+   h1 {
+      color: rgb(243, 17, 9);
+   }
 }
+
 .block {
 
-	&__ {
-	}
+   &__ {}
 
-	&__item {
-	}
+   &__item {}
 }
-.block {
-}
-.block__ {
-}
-.block__item {
-}
+
+.block {}
+
+.block__ {}
+
+.block__item {}
+
+
